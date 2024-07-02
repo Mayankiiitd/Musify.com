@@ -26,7 +26,7 @@ To run this project locally, you need a web browser and a text editor or IDE.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/musify.git
+    git clone [https://github.com/your-username/musify.git](https://github.com/Mayankiiitd/Musify.com.git)
     ```
 2. Navigate to the project directory:
     ```bash
@@ -39,6 +39,6 @@ To run this project locally, you need a web browser and a text editor or IDE.
     ```bash
     open index.html
     ```
-
+2. Since the website currently working the local host, so first of all add some .mp3 music files in the directory named songs.
 ## Project Structure
 
